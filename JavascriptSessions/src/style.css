@@ -1,0 +1,41 @@
+ul {
+  color: brown;
+}
+
+#AELD {
+  background-color: cadetblue;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.demo1 {
+  background-color: red;
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+}
+
+/* Writing a class that will toggle on event */
+
+.BGCheck {
+  background-color: blue;
+}
+
+#domm {
+  margin-top: 50px;
+}
+
+.changingBG {
+  background-color: blue;
+}
+.BGRED {
+  background-color: red;
+  font-size: 75px;
+}
+
+.flex {
+  display: flex;
+  flex: 1;
+}

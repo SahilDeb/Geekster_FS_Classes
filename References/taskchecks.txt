@@ -1,0 +1,8 @@
+26th jan 2021
+Honnaraju --> explaining add and remove event listener scopes
+
+Class --> Diff b/w nodelist and array
+
+28th Jan 2021
+
+--> Class explains DOM Manipulations (class toggle);

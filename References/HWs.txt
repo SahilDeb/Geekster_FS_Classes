@@ -1,0 +1,20 @@
+28th jan 
+
+1. make all dom manipulations taught in todays class on click and then remove those events.
+2. Write code to show minutes remainig to your birthday on the click of a button
+3. Write code to show days remainig to your birthday on the click of a button
+4. Write code to show seconds remainig to your birthday on the click of a button.
+
+Note: 3, 4 and 5 can be grouped together as a single project
+
+process
+-->optional
+[make a button by js
+attach that button to DOM]
+
+--> get reference to that button 
+--> add event listener to that button (click)
+--> function that runs on click (
+    fetch time remaining (days, minutes, seconds)
+)
+--> add answer to element
